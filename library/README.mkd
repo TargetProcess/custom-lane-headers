@@ -1,0 +1,10 @@
+Customize Board Axes
+==================
+
+The mashup demonstrates how to display additional data on axis headers on boards or timelines
+
+![Teams](https://github.com/TargetProcess/customize-board-axes/raw/initial-version/library/teams.png)
+
+![Iterations](https://github.com/TargetProcess/customize-board-axes/raw/initial-version/library/iterations.png)
+
+See more examples [in our Github repository](https://github.com/TargetProcess/customize-board-axes/tree/initial-version/examples)
