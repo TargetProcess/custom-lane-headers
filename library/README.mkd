@@ -8,8 +8,8 @@ It uses new API which allows to add more units to axes:
 entity types selected as Horizontal Lanes
 * `customizeApi.registerViewAxisHeaderLayout(viewId, entityTypes, layout)` - adds units only to the board or timeline with provided ID
 
-![Teams](https://github.com/TargetProcess/customize-board-axes/raw/initial-version/library/teams.png)
+![Teams](https://github.com/TargetProcess/TP3MashupLibrary/raw/master/Customize%20Board%20Axes/teams.png)
 
-![Iterations](https://github.com/TargetProcess/customize-board-axes/raw/initial-version/library/iterations.png)
+![Iterations](https://github.com/TargetProcess/TP3MashupLibrary/raw/master/Customize%20Board%20Axes/iterations.png)
 
 See more examples [in our Github repository](https://github.com/TargetProcess/customize-board-axes/tree/initial-version/examples)
