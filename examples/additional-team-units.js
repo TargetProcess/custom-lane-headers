@@ -4,7 +4,7 @@ tau.mashups
     .addMashup(function(customizeApi, entityTypes){
 
         // This will add the list of project the team is assigned to as well as the number of open Stories and Bugs
-        // to all boards and timelines where Teams are Horizontal Lanes
+        // to all boards and roadmaps where Teams are Horizontal Lanes
         customizeApi.registerDefaultAxisHeaderLayout([entityTypes.TEAM], {
             sections: [
                 {

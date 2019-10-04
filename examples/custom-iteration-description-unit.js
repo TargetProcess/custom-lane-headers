@@ -36,7 +36,7 @@ tau.mashups
             }
         });
 
-        // Add custom description units to the board with ID 1111111111111111111 to Sprint (aka Iteration) axis
+        // Add custom description units to the board with ID 1111111111111111111 to Sprint (aka Iteration) lane
         // Description will be displayed if this board has Sprints/Iterations selected as Horizontal Lanes
         customizeApi.registerViewAxisHeaderLayout('1111111111111111111',  [entityTypes.ITERATION], {
             sections: [
